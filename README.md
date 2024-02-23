@@ -2,3 +2,7 @@
 
 Alguns assuntos abordados:
 - 
+- Listas Encadeadas;
+- Pilhas;
+- Filas
+- Hash Table;
