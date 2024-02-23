@@ -6,3 +6,5 @@ Alguns assuntos abordados:
 - Pilhas;
 - Filas
 - Hash Table;
+- Grafos;
+- Árvores.
