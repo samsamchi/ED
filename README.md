@@ -1,4 +1,4 @@
-# Programação 2 (Estrutura de Dados)
+# Estrutura de Dados
 
 Alguns assuntos abordados:
 - 
